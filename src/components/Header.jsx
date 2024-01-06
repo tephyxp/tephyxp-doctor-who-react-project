@@ -90,18 +90,18 @@ export default function Header({ onContactClick, onSearch }) {
           <div className="flex items-center justify-between px-4 md:px-20 py-4 md:h-40 relative z-10">
             <div className="flex items-center">
               <Link href="/">
-                <div className="h-12 md:h-16">
+                <div className="h-16 md:h-16">
                   <img
-                    className="w-auto h-full"
+                    className="w-auto h-full absolute -bottom-4 mb-2"
                     src="/img/logos/logo.png"
                     alt="Logo"
                   />
                 </div>
               </Link>
             </div>
-            <div className="flex items-center space-x-3 md:hidden">
+            <div className="flex items-center space-x-5 md:hidden mr-3 mt-4">
               <button onClick={toggleMobileMenu}>
-                <FontAwesomeIcon icon={mobileMenuOpen ? faTimes : faBars} className="w-6 h-6" />
+                <FontAwesomeIcon icon={mobileMenuOpen ? faTimes : faBars} className="w-8 h-8" />
               </button>
             </div>
           </div>

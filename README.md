@@ -1,8 +1,9 @@
-## Dr. Who website
+## 👩‍⚕️🌃 Dr. Who website
+
 > [!NOTE]  
 > 🌐 Description:
-> 
->The Doctor Who Web Project is a web application developed using Next.js and React.js. It offers an interactive platform for users to explore information related to the famous television series Doctor Who. The application is designed to provide a dynamic and adaptable user interface utilizing Tailwind CSS for styling.
+>
+> The Doctor Who Web Project is a web application developed using Next.js and React.js. It offers an interactive platform for users to explore information related to the famous television series Doctor Who. The application is designed to provide a dynamic and adaptable user interface utilizing Tailwind CSS for styling.
 
 ## 👩‍💻 Technologies Used:
 
@@ -15,14 +16,16 @@
 
 ## 📁 File Structure:
 
-- .next
-- /node_modules  
-- public/
-- src/
-  - app/
-  - components/
-  - utils/
-- test/
+- **.next:** Contains automatically generated files by Next.js during the build process, including configurations and optimized code. Manual 
+    editing of these files isn't necessary.
+- **/node_modules:** Stores all project dependencies installed via npm. Direct editing isn't required as npm manages these dependencies.
+- **public/:** Holds static files accessible directly from the browser, such as images, CSS styles, and other resources.
+- **src/:**
+  - _app/:_ Contains main application files, such as the entry point or core logic.
+  - _components/:_ Houses reusable React components used within the interface.
+  - _utils/:_ Holds helper functions or utilities for the application.
+- **test/:** Stores files related to the project's testing, such as configurations and test suites. Used for performing unit and integration 
+    tests on the codebase.
 
 ## 📚 Features:
 
@@ -32,8 +35,8 @@
 - **Contact Page:** Access a functional contact page allowing users to submit inquiries.
 - **Responsive Design:** Ensures seamless adaptation across various devices with a minimum of two breakpoints (desktop and mobile).
 
-
->[!IMPORTANT]
+> [!IMPORTANT]
+>
 > ## 🛠 Installation Instructions:
 
 1. Open a terminal and navigate to the project folder.
@@ -42,34 +45,40 @@
    https://github.com/tephyxp/tephyxp-doctor-who-react-project.git
 
 2. Navigate to the project directory and install dependencies:
-  ```
-  cd doctor-who-project
-  npm install
-  ```
+
+```
+cd doctor-who-project
+npm install
+```
+
 3. Once the dependencies are installed, you can run the tests using the command:
-  ```
-  npm test
-  ```
-4. Finally go again to the terminal and open the interface on the browser: 
+
+```
+npm test
+```
+
+4. Finally go again to the terminal and open the interface on the browser:
 
 ```
    npm run dev
 ```
 
 ## 📝 Usage Instructions:
+
 1. Start the development server:
 2. Open your web browser and navigate to `http://localhost:3000` to access the Doctor Who application.
 
 ## Page Demo
-![Index.html]() 
+
+![Index.html]()
 
 ## 👩‍💻 Developer:
 
 Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-cespedes)
 
-
->[!TIP]
->## 🚀 Development and Contributions
+> [!TIP]
+>
+> ## 🚀 Development and Contributions
 
 🎖 Contribute to the development of this application by following these steps!
 
@@ -81,11 +90,12 @@ Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-c
 6. Open a pull request in the original repository.
 7. Thank you for your contribution!
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Sitio web de Doctor Who
 
 > [!NOTE]
+>
 > ## 🌐 Descripción:
 
 - El Proyecto Doctor Who Web es una aplicación web desarrollada utilizando Next.js y React.js. Proporciona una plataforma interactiva para que los usuarios exploren información relacionada con la famosa serie de televisión Doctor Who. La aplicación está diseñada para proporcionar una interfaz de usuario dinámica y adaptable utilizando Tailwind CSS para los estilos.
@@ -100,26 +110,35 @@ Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-c
 - Jest
 
 ## 📁 Estructura de archivos:
-- .next
-- /node_modules  
-- public/
-- src/
-  - app/
-  - components/
-  - utils/
-- test/
 
+- **.next :** Contiene archivos generados automáticamente por Next.js durante la compilación, incluyendo configuraciones y código optimizado. 
+    No es necesario editar manualmente estos archivos.
+- **/node_modules:** Almacena todas las dependencias del proyecto instaladas a través de npm. No se edita directamente, ya que npm gestiona 
+    estas dependencias.
+- **public/:** Guarda archivos estáticos accesibles directamente desde el navegador, como imágenes, estilos CSS y otros recursos.
+- **src/**
+  - **app:/** Contiene archivos principales de la aplicación, como el punto de entrada o la lógica principal.
+  - **components:/** Alberga componentes reutilizables de React usados en la interfaz.
+  - **utils:/** Contiene funciones auxiliares o utilidades para la aplicación.
+- **test:/** Guarda archivos relacionados con pruebas del proyecto, como configuraciones y suites de pruebas. Se utilizan para realizar 
+    pruebas unitarias e integración del código.
 
 ## 📚 Funcionalidades:
 
-- **Página de Inicio con Carrusel:** Participa en una página de inicio visualmente atractiva que muestra un carrusel de imágenes y títulos relacionados con Doctor Who.
-- **Sección de Información del Doctor:** Sumérgete en información detallada sobre varios doctores obtenida del conjunto de datos JSON proporcionado.
-- **Funcionalidad de Búsqueda:** Busca fácilmente doctores por nombre o actor dentro de la aplicación.
-- **Página de Contacto:** Accede a una página de contacto funcional que permite a los usuarios enviar consultas.
-- **Diseño Responsivo:** Garantiza una adaptación perfecta en varios dispositivos con al menos dos puntos de interrupción (escritorio y móvil).
+- **Página de Inicio con Carrusel:** Participa en una página de inicio visualmente atractiva 
+    que muestra un carrusel de imágenes y títulos relacionados con Doctor Who.
+- **Sección de Información del Doctor:** Sumérgete en información detallada sobre varios 
+    doctores obtenida del conjunto de datos JSON proporcionado.
+- **Funcionalidad de Búsqueda:** Busca fácilmente doctores por nombre o actor dentro de la 
+    aplicación.
+- **Página de Contacto:** Accede a una página de contacto funcional que permite a los usuarios 
+    enviar consultas.
+- **Diseño Responsivo:** Garantiza una adaptación perfecta en varios dispositivos con al menos 
+    dos puntos de interrupción (escritorio y móvil).
 
->[!IMPORTANT]
->## 🛠 Instrucciones de Instalación:
+> [!IMPORTANT]
+>
+> ## 🛠 Instrucciones de Instalación:
 
 1. Abre una terminal y navega hasta la carpeta del proyecto.
 
@@ -127,25 +146,30 @@ Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-c
    https://github.com/tephyxp/tephyxp-doctor-who-react-project.git
 
 2. Navega al directorio del proyecto e instala las dependencias:
+
    ```bash
    cd doctor-who-project
    npm install
 
+   ```
+
 3. Una vez instaladas las dependencias, puedes ejecutar las pruebas con el comando:
 
-    ```
-    npm test
-    ```
+   ```
+   npm test
+   ```
+
 4. Finalmente, vuelve a la terminal y abre la interfaz en el navegador:
-    ```
-    npm run dev
-    ```
-## 📝 Instrucciones de Uso: 
+   ```
+   npm run dev
+   ```
+
+## 📝 Instrucciones de Uso:
 
 1. Inicia el servidor de desarrollo.
 2. Abre tu navegador web y accede a http://localhost:3000 para utilizar la aplicación de Doctor Who.
 
-## Demo de la página 
+## Demo de la página
 
 ![Index.html](./public/img/carrusel/carrusel-1.jpeg)
 
@@ -153,9 +177,9 @@ Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-c
 
 Stephanie Céspedes - [Perfil Linkedin](https://www.linkedin.com/in/stephanie-cespedes)
 
-
->[!TIP]
->## 🚀 Desarrollo y Contribuciones
+> [!TIP]
+>
+> ## 🚀 Desarrollo y Contribuciones
 
 🎖 ¡Contribuye al desarrollo de esta aplicación siguiendo estos pasos!
 
@@ -167,8 +191,6 @@ Stephanie Céspedes - [Perfil Linkedin](https://www.linkedin.com/in/stephanie-ce
 6. Abre un pull request en el repositorio original.
 
 ¡Gracias por tu contribución!
-
-
 
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

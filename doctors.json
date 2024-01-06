@@ -1,0 +1,131 @@
+{
+    "doctors": [
+      {
+        "id":0,
+        "doctor": "Primer Doctor",
+        "actor": "William Hartnell",
+        "screen_time": "1963-1966",
+        "image": "./assets/img/doctors/First_Doctor_William_Hartnell.jpg"
+      },
+      {
+        "id":1,
+        "doctor": "Primer Doctor",
+        "actor": "William Hartnell",
+        "screen_time": "1963-1966",
+        "image": "./assets/img/doctors/First_Doctor_Peter_Cushing.jpg"
+      },
+      {
+        "id":2,
+        "doctor": "Segundo Doctor",
+        "actor": "Patrick Troughton",
+        "screen_time": "1966-1969",
+        "image": "./assets/img/doctors/Second_Doctor_Patrick_Troughton.jpg"
+      },
+      {
+        "id":3,
+        "doctor": "Tercero Doctor",
+        "actor": "Jon Pertwee",
+        "screen_time": "1970-1974",
+        "image": "./assets/img/doctors/Third_Doctor_Jon_Pertwee.jpg"
+      },
+      {
+        "id":4,
+        "doctor": "Cuarto Doctor",
+        "actor": "Tom Baker",
+        "screen_time": "1974-1981",
+        "image": "./assets/img/doctors/Fourth_Doctor_Tom_Baker.jpg"
+      },
+      {
+        "id":5,
+        "doctor": "Quinto Doctor",
+        "actor": "Peter Davison",
+        "screen_time": "1982-1984",
+        "image": "./assets/img/doctors/Fifth_Doctor_Peter_Davison.jpg"
+      },
+      {
+        "id":6,
+        "doctor": "Sexto Doctor",
+        "actor": "Colin Baker",
+        "screen_time": "1984-1986",
+        "image": "./assets/img/doctors/Sixth_Doctor_Colin_Baker.jpg"
+      },
+      {
+        "id":7,
+        "doctor": "Séptimo Doctor",
+        "actor": "Sylvester McCoy",
+        "screen_time": "1987-1996",
+        "image": "./assets/img/doctors/Seventh_Doctor_Sylvester_McCoy.jpg"
+      },
+      {
+        "id":8,
+        "doctor": "Octavo Doctor",
+        "actor": "Paul McGann",
+        "screen_time": "1996 (movie)",
+        "image": "./assets/img/doctors/Eighth_Doctor_Paul_McGann.jpg"
+      },
+      {
+        "id":9,
+        "doctor": "Noveno Doctor",
+        "actor": "Christopher Eccleston",
+        "screen_time": "2005",
+        "image": "./assets/img/doctors/Ninth_Doctor_Christopher_Eccleston.jpg"
+      },
+      {
+        "id":10,
+        "doctor": "Décimo Doctor",
+        "actor": "David Tennant",
+        "screen_time": "2005-2010",
+        "image": "./assets/img/doctors/Tenth_Doctor_David_Tennant.jpg"
+      },
+      {
+        "id":11,
+        "doctor": "Undécimo Doctor",
+        "actor": "Matt Smith",
+        "screen_time": "2010-2013",
+        "image": "./assets/img/doctors/Eleventh_Doctor_Matt_Smith.jpg"
+      },
+      {
+        "id":12,
+        "doctor": "Doctor Guerrero",
+        "actor": "Jon Hurt",
+        "screen_time": "2013",
+        "image": "./assets/img/doctors/War_Doctor_John_Hurt.jpg"
+      },
+      {
+        "id":13,
+        "doctor": "Duodécimo Doctor",
+        "actor": "Peter Capaldi",
+        "screen_time": "2013-2017",
+        "image": "./assets/img/doctors/Twelfth_Doctor_Peter_Capaldi.jpg"
+      },
+      {
+        "id":14,
+        "doctor": "Decimotercer Doctor",
+        "actor": "Jodie Whittaker",
+        "screen_time": "2017-2022",
+        "image": "./assets/img/doctors/Thirteenth_Doctor_Jodie_Whittaker.jpg"
+      },
+      {
+        "id":15,
+        "doctor": "Doctor Fugitivo",
+        "actor": "Jodie Whittaker",
+        "screen_time": "2020",
+        "image": "./assets/img/doctors/Fugitive_Doctor_Jo_Martin.png"
+      },
+      {
+        "id":16,
+        "doctor": "Decimocuarto Doctor",
+        "actor": "David Tennant",
+        "screen_time": "2022-2023",
+        "image": "./assets/img/doctors/Fourteenth_Doctor_David_Tennant.jpg"
+      },
+      {
+        "id":17,
+        "doctor": "Decimoquinto Doctor",
+        "actor": "Ncuti Gatwa",
+        "screen_time": "2023",
+        "image": "./assets/img/doctors/Fifteenth_Doctor_Ncuti_Gatwa.jpg"
+      }
+    ]
+  }
+  

@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <main className="flex justify-center items-center h-screen">
-      {isMobile ? ( // Verifica si es una pantalla móvil
+      {isMobile ? ( 
         <div className="relative w-full h-full">
           {images.map((image, index) => (
             <div key={index} className={`absolute top-0 left-0 w-full h-full ${index === currentImageIndex ? 'opacity-100' : 'opacity-0'}`}>

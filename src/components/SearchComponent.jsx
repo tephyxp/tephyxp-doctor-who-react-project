@@ -11,6 +11,7 @@ function DoctorCard(props) {
         <h2 className="text-2xl md:text-4xl font-bold text-white">Conoce a... {props.doctor}</h2>
         <p className="text-white text-base">{props.actor}</p>
         <p className="text-white text-sm">{props.screenTime}</p>
+        <p>lorem ipsum</p>
         <button className="bg-orange-300 px-4 py-2 rounded-md text-black font-bold mt-4">Ver más</button>
       </div>
       <aside className="md:w-1/2 bg-transparent">

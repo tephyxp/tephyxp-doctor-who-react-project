@@ -10,10 +10,10 @@ const Footer = () => {
         <Image src="/img/symbols/vencer.png" alt="Logo vencer" width={100} height={100} />
       </div>
       <div className="flex items-center justify-end space-x-4 pr-4"> 
-        <FontAwesomeIcon icon={faFacebook} className="w-6 h-6 rounded-full" />
-        <FontAwesomeIcon icon={faXTwitter} className="w-6 h-6 rounded-full" />
-        <FontAwesomeIcon icon={faInstagram} className="w-6 h-6 rounded-full" />
-        <FontAwesomeIcon icon={faTiktok} className="w-6 h-6 rounded-full" />
+        <FontAwesomeIcon icon={faFacebook} className="w-6 h-6 rounded-full" data-testid="facebook-icon" />
+        <FontAwesomeIcon icon={faXTwitter} className="w-6 h-6 rounded-full" data-testid="twitter-icon"/>
+        <FontAwesomeIcon icon={faInstagram} className="w-6 h-6 rounded-full" data-testid="instagram-icon" />
+        <FontAwesomeIcon icon={faTiktok} className="w-6 h-6 rounded-full" data-testid="tiktok-icon" />
       </div>
     </footer>
   );

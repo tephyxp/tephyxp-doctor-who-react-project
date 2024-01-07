@@ -21,11 +21,11 @@ export const metadata = {
   description: 'Official website',
 }
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children,onSearch }) {
   return (
     <html lang="en">
       <body className={`${lato.variable}`}>
-      <Header />
+      <Header onSearch={onSearch} />
       {children}
       <Footer />
       </body>

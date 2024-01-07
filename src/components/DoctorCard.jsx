@@ -9,7 +9,6 @@ function DoctorCard({ image, doctor, actor, screenTime }) {
       <h2>{doctor}</h2>
       <p>{actor}</p>
       <p>{screenTime}</p>
-      {/* Otros detalles del doctor */}
     </div>
   );
 }

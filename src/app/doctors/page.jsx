@@ -1,4 +1,5 @@
 import doctorsData from "../data";
+import Link from 'next/link';
 
 
 function DoctorCard(props) {
@@ -19,9 +20,9 @@ function DoctorCard(props) {
                 {props.screenTime}
             </div>
             <div className="mt-3 w-full flex justify-center">
-                <div className="w-[9rem] py-2 bg-orange-300 rounded-[40px] text-center text-black text-xl font-bold font-lato">
-                    Ver más
-                </div>
+                <button className="w-[9rem] py-2 bg-orange-300 rounded-[40px] text-center text-black text-xl font-bold font-lato">
+                <Link href="https://www.doctorwho.tv/" target="_blank">Ver más</Link>
+                </button>
             </div>
         </div>
     );

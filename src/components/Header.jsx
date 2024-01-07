@@ -54,6 +54,7 @@ export default function Header({ onContactClick }) {
   return (
     <div className={`${isDesktop ? 'hidden md:block' : 'block md:hidden'} bg-primary text-white flex items-center justify-between px-4 md:px-15 py-4 md:h-40 relative z-10`}>
       {isDesktop ? (
+        
         /* Contenido para versión de escritorio */
         <div className="w-full h-40 bg-transparent text-white flex items-center justify-between px-20 relative z-10">
           <ul className="flex items-center space-x-4 font-lato mr-12 pb-6">

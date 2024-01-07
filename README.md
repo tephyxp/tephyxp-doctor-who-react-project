@@ -171,7 +171,7 @@ Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-c
 
 ## Demo de la página
 
-![Index.html](./public/img/carrusel/carrusel-1.jpeg)
+![Index.html](./public/img/carrusel/demo-interface.png)
 
 ## 👩‍💻 Desarrolladora:
 

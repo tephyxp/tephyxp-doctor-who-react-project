@@ -60,7 +60,7 @@ npm test
 4. Finally go again to the terminal and open the interface on the browser:
 
 ```
-   npm run dev
+npm run dev
 ```
 
 ## 📝 Usage Instructions:
